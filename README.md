@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Alexander Palomares</a>' IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/alexander-palomares-a867202b1/">Alexander Palomares</a>' IT and Cybersecurity Project Portfolio 🔐
 
 I’m a passionate learner dedicated to advancing in the tech field, taking one step at a time. With a solid foundation in computer science and coding, I’m eager to gain hands-on experience and eventually join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills and continue growing in cybersecurity.
 
