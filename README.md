@@ -9,7 +9,7 @@ I’m a passionate learner dedicated to advancing in the tech field, taking one 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]((https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main))**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)**
 
 <hr/>
 
