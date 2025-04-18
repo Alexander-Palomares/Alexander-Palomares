@@ -5,7 +5,6 @@ I’m a passionate learner dedicated to advancing in the tech field, taking one 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
