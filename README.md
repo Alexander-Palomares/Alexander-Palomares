@@ -11,7 +11,7 @@ I’m a passionate learner dedicated to advancing in the tech field, taking one 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)**
 - **[Threat Hunting Scenario (Atomic Red)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)**
-- **[Threat Hunting Scenario (Malicious Firefox)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Malicious-Firefox/blob/main/README.md)**
+- **[Threat Hunting Scenario (Malicious Firefox)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Malicious-Firefox)**
 
 
 ## 💼 Job Simulation
