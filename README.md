@@ -2,6 +2,10 @@
 
 I’m a passionate learner dedicated to advancing in the tech field, taking one step at a time. With a solid foundation in computer science and coding, I’m eager to gain hands-on experience and eventually join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills and continue growing in cybersecurity.
 
+## 📋 Incident Response
+
+- **[Exposed VM](https://github.com/Alexander-Palomares/Incident-Response-exposed-machine)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)**
