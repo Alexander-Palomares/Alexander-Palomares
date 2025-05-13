@@ -6,7 +6,7 @@ I’m a passionate learner dedicated to advancing in the tech field, taking one 
 
 - **[Exposed VM](https://github.com/Alexander-Palomares/Incident-Response-exposed-machine)**
 - **[Sudden Network Slowdowns](https://github.com/Alexander-Palomares/Incident-Response-Sudden-Network-Slowdowns-)**
-
+- **[Suspected Data Exfiltration](https://github.com/Alexander-Palomares/Incident-Response-Suspected-Data-Exfiltration-from-PIPd-Employee-)**
 
 
 ## ⚠️ Vulnerability Management Projects
