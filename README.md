@@ -2,8 +2,13 @@
 
 I’m a passionate learner dedicated to advancing in the tech field, taking one step at a time. With a solid foundation in computer science and coding, I’m eager to gain hands-on experience and eventually join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills and continue growing in cybersecurity.
 
-## 📋 Incident Response
 
+
+## 🚨 Threat Hunting & Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)**
+- **[Threat Hunting Scenario (Atomic Red)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)**
+- **[Threat Hunting Scenario (Malicious Firefox)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Malicious-Firefox)**
 - **[Exposed VM](https://github.com/Alexander-Palomares/Incident-Response-exposed-machine)**
 - **[Sudden Network Slowdowns](https://github.com/Alexander-Palomares/Incident-Response-Sudden-Network-Slowdowns-)**
 - **[Suspected Data Exfiltration](https://github.com/Alexander-Palomares/Incident-Response-Suspected-Data-Exfiltration-from-PIPd-Employee-)**
@@ -15,12 +20,6 @@ I’m a passionate learner dedicated to advancing in the tech field, taking one 
 
 - **[Vulnerability Management Program Implementation](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)**
 - **[STIG Remediation Implementation](https://github.com/Alexander-Palomares/GitHub-Portfolio/tree/main/STIGS)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)**
-- **[Threat Hunting Scenario (Atomic Red)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)**
-- **[Threat Hunting Scenario (Malicious Firefox)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Malicious-Firefox)**
 
 
 ## 💼 Job Simulation
