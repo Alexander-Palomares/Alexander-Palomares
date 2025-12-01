@@ -7,10 +7,12 @@ I’m a passionate learner dedicated to advancing in the tech field, taking one 
 ## 🚨 Threat Hunting & Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)**
+
 - **[Threat Hunting Scenario (Atomic Red)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)**
 - **[Threat Hunting Scenario (Malicious Firefox)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Malicious-Firefox)**
 - **[Threat Hunting Scenario (Phantom-Hackers)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Phantom-Hackers/tree/main)**
 - **[Threat Hunting Scenario (Operation Acolyte Intrusion)](https://github.com/Alexander-Palomares/Threat-Hunt-Scenario-Operation-Acolyte-Intrusion-)**
+- **[Threat Hunting Scenario (Azuki Breach *Port of Entry*)](https://github.com/Alexander-Palomares/Threat-Hunt-Scenario-AZUKI-BREACH-Port-of-Entry-)**
 - **[Exposed VM](https://github.com/Alexander-Palomares/Incident-Response-exposed-machine)**
 - **[Sudden Network Slowdowns](https://github.com/Alexander-Palomares/Incident-Response-Sudden-Network-Slowdowns-)**
 - **[Suspected Data Exfiltration](https://github.com/Alexander-Palomares/Incident-Response-Suspected-Data-Exfiltration-from-PIPd-Employee-)**
